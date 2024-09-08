@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/react-calculator.git
+   git clone git@github.com:krisnicholl/React-Calculator.git
 
 2. **Navigate into the project directory**:
    ```bash
