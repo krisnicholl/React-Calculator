@@ -21,7 +21,6 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/yourusername/react-calculator.git
 
-
 2. **Navigate into the project directory**:
     npm install
 
