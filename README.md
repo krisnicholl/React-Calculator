@@ -23,12 +23,12 @@ Make sure you have the following installed on your machine:
 
 2. **Navigate into the project directory**:
    ```bash
-    cd react-calculator
+   cd react-calculator
 
 3. **Install the dependencies**:
    ```bash
-    npm install
+   npm install
 
 4. **Running the application locally**:
    ```bash
-    npm start
+   npm start
