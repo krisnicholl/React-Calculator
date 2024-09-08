@@ -22,10 +22,13 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/yourusername/react-calculator.git
 
 2. **Navigate into the project directory**:
-    npm install
+   ```bash
+    cd react-calculator
 
 3. **Install the dependencies**:
+   ```bash
     npm install
 
 4. **Running the application locally**:
+   ```bash
     npm start
