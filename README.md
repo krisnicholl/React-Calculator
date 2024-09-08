@@ -45,3 +45,4 @@ For future development the following can be added:
  - Adding in memory options so the user has the ability to perform more complex calculations and save results to memory
  - Adding in graphs to make use of all the additional functions]
  - Different modes, so basic, scientific, graph and other options for conversations (including currency)
+ - Plays Doom
